@@ -1,20 +1,12 @@
-### Hi there 👋
+<h2 align="left">Hi 👋! My name is  Vedant and I'm a Flutter Developer, from Pune</h2>
 
-<!--
-**iamvedantp/iamvedantp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
 
-- 🔭 I’m currently working on Android Flutter apps
-- 🌱 I’m currently learning Dart Language
-- 👯 I’m looking to collaborate on Flutter projects
-- 🤔 I’m looking for help with Flutter Framework
-- 📫 How to reach me: https://www.linkedin.com/in/vedant-pande-aa595a11b/
-
--->
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
